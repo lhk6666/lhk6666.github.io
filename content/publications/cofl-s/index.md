@@ -25,9 +25,10 @@ summary: >-
   language-conditioned navigation, trained with frame-level supervision
   distilled from VLN-CE episodes.
 featured: true
-url_pdf: 'https://arxiv.org/pdf/2607.02205'
-links:
-  - name: arXiv
-    url: 'https://arxiv.org/abs/2607.02205'
+# TODO: fill in the correct arXiv ID for CoFL-S
+# url_pdf: 'https://arxiv.org/pdf/XXXX.XXXXX'
+# links:
+#   - name: arXiv
+#     url: 'https://arxiv.org/abs/XXXX.XXXXX'
 # TODO: add demo GIF as featured.gif/featured.jpg in this folder
 ---

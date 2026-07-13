@@ -21,8 +21,9 @@ summary: >-
   面向局部语言条件导航的可空间查询扇区流场表征，利用从 VLN-CE 片段蒸馏出的
   帧级监督进行训练。
 featured: true
-url_pdf: 'https://arxiv.org/pdf/2607.02205'
-links:
-  - name: arXiv
-    url: 'https://arxiv.org/abs/2607.02205'
+# TODO: 填入 CoFL-S 正确的 arXiv 编号
+# url_pdf: 'https://arxiv.org/pdf/XXXX.XXXXX'
+# links:
+#   - name: arXiv
+#     url: 'https://arxiv.org/abs/XXXX.XXXXX'
 ---
