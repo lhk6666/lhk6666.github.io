@@ -1,0 +1,27 @@
+# 中文版作者信息：只需填写要覆盖的字段，其余自动继承 data/authors/me.yaml
+name:
+  display: Haokun Liu  # TODO: 改为中文姓名，如 刘浩坤
+role: 硕士/博士研究生  # TODO: 改为实际身份
+bio: |
+  我是东京大学 DRAGON 实验室的研究生，研究方向为视觉-语言-动作（VLA）模型
+  以及空中与地面机器人的学习控制方法。
+
+affiliations:
+  - name: 东京大学
+    url: https://www.u-tokyo.ac.jp/
+
+interests:
+  - 视觉-语言-动作模型（VLA）
+  - 空中机器人
+  - 机器人学习
+  - 视觉语言导航
+
+education:
+  # TODO: 按实际情况修改
+  - degree: 研究生（机器人方向）
+    institution: 东京大学
+    start: 2024-04-01
+  - degree: 工学学士
+    institution: 本科院校
+    start: 2020-09-01
+    end: 2024-06-30

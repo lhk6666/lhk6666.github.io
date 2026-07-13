@@ -1,0 +1,67 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+name:
+  display: Haokun Liu
+  given: Haokun
+  family: Liu
+  alternate: ''  # TODO: your name in Chinese characters, e.g. 刘浩坤
+  pronunciation: 'Liú Hàokūn'
+  pronouns: ''
+postnominals: []
+status:
+  icon: ""
+role: Graduate Student  # TODO: update to your actual position (e.g. PhD Student, Master Student)
+bio: |
+  I am a graduate student at the DRAGON Lab, The University of Tokyo.
+  My research focuses on vision-language-action (VLA) models and
+  learning-based control for aerial and ground robots.
+
+affiliations:
+  - name: The University of Tokyo
+    url: https://www.u-tokyo.ac.jp/en/
+
+links:
+  - icon: at-symbol
+    url: mailto:haokun-liu@dragon.t.u-tokyo.ac.jp
+    label: E-mail Me
+  - icon: brands/github
+    url: https://github.com/lhk6666
+  # TODO: uncomment and fill in your Google Scholar / ORCID / LinkedIn
+  # - icon: academicons/google-scholar
+  #   url: https://scholar.google.com/citations?user=XXXX
+  # - icon: academicons/orcid
+  #   url: https://orcid.org/0000-0000-0000-0000
+  # - icon: brands/linkedin
+  #   url: https://www.linkedin.com/in/XXXX/
+
+interests:
+  - Vision-Language-Action Models
+  - Aerial Robotics
+  - Robot Learning
+  - Vision-and-Language Navigation
+
+education:
+  # TODO: update with your real education history
+  - degree: Graduate Student, Robotics
+    institution: The University of Tokyo
+    start: 2024-04-01
+  - degree: BEng
+    institution: Your Previous University
+    start: 2020-09-01
+    end: 2024-06-30
+
+# Optional sections — uncomment and fill in as needed
+# experience:
+#   - role: Research Intern
+#     org: Some Lab
+#     start: 2023-07-01
+#     end: 2023-09-30
+#     summary: |
+#       What you did there.
+
+# awards:
+#   - title: Some Award
+#     awarder: Some Society
+#     date: "2025-06-01"
+#     icon: hero/trophy

@@ -1,0 +1,34 @@
+# Languages
+#   Create a section for each of your site's languages.
+#   Documentation: https://docs.hugoblox.com/reference/language/
+
+# Default language: English
+en:
+  locale: en-us
+  languageName: English
+
+# Chinese (Simplified)
+zh:
+  locale: zh-Hans
+  languageName: 中文
+  hasCJKLanguage: true
+  menus:
+    main:
+      - name: 简介
+        url: /
+        weight: 10
+      - name: 论文
+        url: /#papers
+        weight: 11
+      - name: 报告
+        url: /#talks
+        weight: 12
+      - name: 动态
+        url: /#news
+        weight: 13
+      - name: 经历
+        url: experience/
+        weight: 20
+      - name: 项目
+        url: projects/
+        weight: 30
