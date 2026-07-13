@@ -5,17 +5,19 @@ name:
   display: Haokun Liu
   given: Haokun
   family: Liu
-  alternate: ''  # TODO: your name in Chinese characters, e.g. 刘浩坤
+  alternate: ''  # TODO: your name in Chinese characters
   pronunciation: 'Liú Hàokūn'
   pronouns: ''
 postnominals: []
 status:
   icon: ""
-role: Graduate Student  # TODO: update to your actual position (e.g. PhD Student, Master Student)
+role: PhD Student
 bio: |
-  I am a graduate student at the DRAGON Lab, The University of Tokyo.
+  I am a PhD student at the [DRAGON Lab](http://www.dragon.t.u-tokyo.ac.jp/),
+  The University of Tokyo, advised by Junior Assoc. Prof.
+  [Moju Zhao](https://scholar.google.com/citations?user=4P-VLNAAAAAJ).
   My research focuses on vision-language-action (VLA) models and
-  learning-based control for aerial and ground robots.
+  language-conditioned navigation for aerial and ground robots.
 
 affiliations:
   - name: The University of Tokyo
@@ -37,19 +39,26 @@ links:
 
 interests:
   - Vision-Language-Action Models
-  - Aerial Robotics
-  - Robot Learning
-  - Vision-and-Language Navigation
+  - Language-Conditioned Navigation
+  - Aerial-Ground Robotic Systems
+  - Human-Robot Collaboration
 
 education:
-  # TODO: update with your real education history
-  - degree: Graduate Student, Robotics
+  - degree: PhD, Department of Mechanical Engineering
     institution: The University of Tokyo
-    start: 2024-04-01
-  - degree: BEng
-    institution: Your Previous University
-    start: 2020-09-01
-    end: 2024-06-30
+    start: 2024-10-01
+    summary: |
+      DRAGON Lab. Advisor: Junior Assoc. Prof. [Moju Zhao](https://scholar.google.com/citations?user=4P-VLNAAAAAJ). Expected Sep 2027.
+  - degree: MEng, Department of Mechanical Systems Engineering
+    institution: Nagoya University
+    start: 2022-10-01
+    end: 2024-09-30
+    summary: |
+      Intelligent Robotics and Biomechatronics Lab. Advisor: Prof. [Yasuhisa Hasegawa](https://scholar.google.com/citations?user=PrDzYHcAAAAJ).
+  - degree: BEng, Mechanical Design, Manufacturing and Automation
+    institution: Hunan University
+    start: 2018-09-01
+    end: 2022-06-30
 
 # Optional sections — uncomment and fill in as needed
 # experience:
