@@ -33,4 +33,10 @@ links:
     url: 'https://arxiv.org/abs/2506.05020'
   - name: Journal
     url: 'https://advanced.onlinelibrary.wiley.com/doi/10.1002/aisy.202500640'
+  - name: 视频
+    url: 'https://www.youtube.com/watch?v=evvAk5-gd4A'
 ---
+
+## 演示视频
+
+{{< youtube evvAk5-gd4A >}}

@@ -35,5 +35,10 @@ links:
     url: 'https://arxiv.org/abs/2406.14097'
   - name: IEEE Xplore
     url: 'https://doi.org/10.1109/LRA.2024.3415931'
-# TODO: add demo GIF as featured.gif/featured.jpg in this folder
+  - name: Video
+    url: 'https://www.youtube.com/watch?v=q9G6akvytqU'
 ---
+
+## Video
+
+{{< youtube q9G6akvytqU >}}

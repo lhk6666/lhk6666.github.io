@@ -40,5 +40,10 @@ links:
     url: 'https://arxiv.org/abs/2506.05020'
   - name: Journal
     url: 'https://advanced.onlinelibrary.wiley.com/doi/10.1002/aisy.202500640'
-# TODO: add demo GIF as featured.gif/featured.jpg in this folder
+  - name: Video
+    url: 'https://www.youtube.com/watch?v=evvAk5-gd4A'
 ---
+
+## Video
+
+{{< youtube evvAk5-gd4A >}}
