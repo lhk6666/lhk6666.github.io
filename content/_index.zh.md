@@ -10,9 +10,6 @@ sections:
     content:
       username: me
       text: ''
-      button:
-        text: 下载简历
-        url: uploads/resume.pdf
       headings:
         about: '关于我'
         education: '教育经历'
