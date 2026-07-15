@@ -1,7 +1,7 @@
 ---
 title: 'CoFL-S: Spatially Queryable Sector Flow Fields for Local Language-Conditioned Navigation'
 authors:
-  - me
+  - Haokun Liu
   - Zhaoqi Ma
   - Yicheng Chen
   - Wentao Zhang

@@ -1,7 +1,7 @@
 ---
 title: LLM-Based Human-Robot Collaboration Framework for Manipulation Tasks
 authors:
-  - me
+  - Haokun Liu
   - Yaonan Zhu
   - Kenji Kato
   - Izumi Kondo

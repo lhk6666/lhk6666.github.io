@@ -1,7 +1,7 @@
 ---
 title: 'CoFL: Continuous Flow Fields for Language-Conditioned Navigation'
 authors:
-  - me
+  - Haokun Liu
   - Zhaoqi Ma
   - Yicheng Chen
   - Masaki Kitagawa

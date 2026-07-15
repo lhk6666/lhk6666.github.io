@@ -3,7 +3,7 @@ title: >-
   Hierarchical Language Models for Semantic Navigation and Manipulation in an
   Aerial-Ground Robotic System
 authors:
-  - me
+  - Haokun Liu
   - Zhaoqi Ma
   - Yunong Li
   - Junichiro Sugihara

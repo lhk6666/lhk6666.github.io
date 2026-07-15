@@ -1,7 +1,7 @@
 ---
 title: Enhancing the LLM-Based Robot Manipulation Through Human-Robot Collaboration
 authors:
-  - me
+  - Haokun Liu
   - Yaonan Zhu
   - Kenji Kato
   - Atsushi Tsukahara
