@@ -4,6 +4,7 @@ name:
   given: 浩坤
   family: 刘
   alternate: Haokun Liu
+  pronunciation: ''  # 中文版不在姓名上方标注拼音
 role: 博士生
 bio: |
   我是东京大学 [DRAGON 实验室](http://www.dragon.t.u-tokyo.ac.jp/)的博士生，

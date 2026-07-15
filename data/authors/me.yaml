@@ -5,8 +5,8 @@ name:
   display: Haokun Liu
   given: Haokun
   family: Liu
-  alternate: ''  # TODO: your name in Chinese characters
-  pronunciation: 'Liú Hàokūn'
+  alternate: '刘浩坤'
+  pronunciation: 'Hàokūn Liú'  # Pinyin in English name order (given name first)
   pronouns: ''
 postnominals: []
 status:
