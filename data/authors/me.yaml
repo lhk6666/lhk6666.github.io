@@ -25,17 +25,17 @@ affiliations:
 
 links:
   - icon: at-symbol
-    url: mailto:haokun-liu@dragon.t.u-tokyo.ac.jp
+    url: mailto:liuhaokun0039@hotmail.com
     label: E-mail Me
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=ppbbP6gAAAAJ
   - icon: brands/github
     url: https://github.com/lhk6666
-  # TODO: uncomment and fill in your Google Scholar / ORCID / LinkedIn
-  # - icon: academicons/google-scholar
-  #   url: https://scholar.google.com/citations?user=XXXX
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/haokun-liu-899460303/
+  # 可选：如有 ORCID，取消注释填入
   # - icon: academicons/orcid
   #   url: https://orcid.org/0000-0000-0000-0000
-  # - icon: brands/linkedin
-  #   url: https://www.linkedin.com/in/XXXX/
 
 interests:
   - Vision-Language-Action Models
