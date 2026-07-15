@@ -1,6 +1,9 @@
 # 中文版作者信息：只需填写要覆盖的字段，其余自动继承 data/authors/me.yaml
 name:
-  display: Haokun Liu  # TODO: 改为中文姓名
+  display: 刘浩坤
+  given: 浩坤
+  family: 刘
+  alternate: Haokun Liu
 role: 博士生
 bio: |
   我是东京大学 [DRAGON 实验室](http://www.dragon.t.u-tokyo.ac.jp/)的博士生，
