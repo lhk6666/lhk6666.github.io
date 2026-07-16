@@ -30,5 +30,10 @@ url_pdf: 'https://arxiv.org/pdf/2607.02222'
 links:
   - name: arXiv
     url: 'https://arxiv.org/abs/2607.02222'
-# TODO: add demo GIF as featured.gif/featured.jpg in this folder
+  - name: Video
+    url: 'https://youtu.be/NJpWBFihxbo'
 ---
+
+## Video
+
+{{< youtube NJpWBFihxbo >}}

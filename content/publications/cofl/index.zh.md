@@ -27,4 +27,10 @@ url_pdf: 'https://arxiv.org/pdf/2603.02854'
 links:
   - name: arXiv
     url: 'https://arxiv.org/abs/2603.02854'
+  - name: 视频
+    url: 'https://youtu.be/gccph7X3fFg'
 ---
+
+## 演示视频
+
+{{< youtube gccph7X3fFg >}}
