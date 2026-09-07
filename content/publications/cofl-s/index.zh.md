@@ -10,8 +10,9 @@ authors:
   - Jinjie Li
   - Moju Zhao
 date: '2026-07-01T00:00:00Z'
-publication_types: ['article']
-publication: 'arXiv 预印本（审稿中）'
+publication_types: ['paper-conference']
+publication: '*Conference on Robot Learning (CoRL 2026)*'
+publication_short: 'CoRL 2026'
 abstract: >-
   CoFL-S 是一个低层视觉-语言-动作（VLA）框架：在机器人局部可见扇区上预测
   语言条件化的流场，并通过对预测流场进行积分展开来生成连续轨迹。为训练该低层

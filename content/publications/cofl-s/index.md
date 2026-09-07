@@ -10,8 +10,9 @@ authors:
   - Jinjie Li
   - Moju Zhao
 date: '2026-07-01T00:00:00Z'
-publication_types: ['article']
-publication: 'arXiv preprint (under review)'
+publication_types: ['paper-conference']
+publication: '*Conference on Robot Learning (CoRL 2026)*'
+publication_short: 'CoRL 2026'
 abstract: >-
   CoFL-S is a low-level vision-language-action framework that predicts a
   language-conditioned flow field over the robot's local visible sector and
