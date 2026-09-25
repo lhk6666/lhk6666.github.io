@@ -29,6 +29,8 @@ featured: true
 doi: '10.48550/arXiv.2607.02222'
 url_pdf: 'https://arxiv.org/pdf/2607.02222'
 links:
+  - name: GitHub
+    url: 'https://github.com/ut-dragon-lab/CoFL'
   - name: arXiv
     url: 'https://arxiv.org/abs/2607.02222'
   - name: Video

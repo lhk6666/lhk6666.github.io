@@ -29,6 +29,8 @@ summary: >-
 featured: true
 url_pdf: 'https://arxiv.org/pdf/2506.05020'
 links:
+  - name: GitHub
+    url: 'https://github.com/lhk6666/Semantic-Navigation-and-Manipulation-in-the-Aerial-Ground-Robotic-System'
   - name: arXiv
     url: 'https://arxiv.org/abs/2506.05020'
   - name: Journal

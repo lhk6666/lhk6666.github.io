@@ -25,6 +25,8 @@ summary: >-
 featured: true
 url_pdf: 'https://arxiv.org/pdf/2603.02854'
 links:
+  - name: GitHub
+    url: 'https://github.com/lhk6666/CoFL'
   - name: arXiv
     url: 'https://arxiv.org/abs/2603.02854'
   - name: 视频
