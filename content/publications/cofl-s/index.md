@@ -34,9 +34,9 @@ links:
   - name: arXiv
     url: 'https://arxiv.org/abs/2607.02222'
   - name: Video
-    url: 'https://youtu.be/NJpWBFihxbo'
+    url: 'https://youtu.be/MzfNDPYh0j0'
 ---
 
 ## Video
 
-{{< youtube NJpWBFihxbo >}}
+{{< youtube MzfNDPYh0j0 >}}

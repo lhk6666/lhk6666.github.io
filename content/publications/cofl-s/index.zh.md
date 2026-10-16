@@ -30,9 +30,9 @@ links:
   - name: arXiv
     url: 'https://arxiv.org/abs/2607.02222'
   - name: 视频
-    url: 'https://youtu.be/NJpWBFihxbo'
+    url: 'https://youtu.be/MzfNDPYh0j0'
 ---
 
 ## 演示视频
 
-{{< youtube NJpWBFihxbo >}}
+{{< youtube MzfNDPYh0j0 >}}

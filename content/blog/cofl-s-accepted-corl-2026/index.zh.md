@@ -18,6 +18,6 @@ CoFL-S 是一个低层视觉-语言-动作（VLA）框架：在机器人局部�
 
 - 论文页面：[CoFL-S](/zh/publications/cofl-s/)
 - arXiv：[2607.02222](https://arxiv.org/abs/2607.02222)
-- 演示视频：[YouTube](https://youtu.be/NJpWBFihxbo)
+- 演示视频：[YouTube](https://youtu.be/MzfNDPYh0j0)
 
 感谢所有合作者以及导师 Moju Zhao 的支持，CoRL 见！

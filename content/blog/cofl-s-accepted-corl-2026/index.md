@@ -19,6 +19,6 @@ local supervision distilled from VLN-CE episodes.
 
 - Paper page: [CoFL-S](/publications/cofl-s/)
 - arXiv: [2607.02222](https://arxiv.org/abs/2607.02222)
-- Video: [YouTube](https://youtu.be/NJpWBFihxbo)
+- Video: [YouTube](https://youtu.be/MzfNDPYh0j0)
 
 Many thanks to all my co-authors and to my advisor Moju Zhao. See you at CoRL!
