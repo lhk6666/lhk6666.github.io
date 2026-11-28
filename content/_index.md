@@ -53,6 +53,9 @@ sections:
     design:
       view: article-grid
       columns: 2
+      # Letterbox card images instead of stretching them to 16:9
+      # (the Locutor demo GIF is not 16:9).
+      fill_image: false
   - block: collection
     content:
       title: Recent Publications

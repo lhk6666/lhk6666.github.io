@@ -22,19 +22,12 @@ summary: >-
   Locutor turns map-planned routes into landmark-referenced language intents
   for a VLN policy, tolerating coarser localization than waypoint tracking.
 featured: true
-# The card thumbnail (featured.png) is a 16:9 crop of the teaser; the full
-# teaser is shown in the page body instead. Replace with featured.gif later.
-image:
-  preview_only: true
 ---
 
-## Overview
+The demo above replays one HM3D episode at 4× speed: the same planned route to
+the goal "find the plant", executed with two kinds of intents. At a fork, the
+direction-only intent "walk forward" lets the robot veer off the route, and it
+reaches the goal in 61.2&nbsp;s after two DWA takeovers. The landmark intent "enter
+the dining room" keeps it on the route, and it reaches the goal in 16.6&nbsp;s.
 
-<figure>
-  <a href="/publications/locutor/teaser.png" target="_blank" rel="noopener" title="Open the full-resolution figure">
-    <img src="/publications/locutor/teaser.png" width="2560" height="840" loading="lazy" alt="Locutor overview: a visual topological map grounds the language goal and plans the route, the route is verbalized into a sequence of language intents executed from the current view, and landmark intents hold up better than waypoint tracking under coarse poses.">
-  </a>
-  <figcaption>Locutor connects semantic-map-based planning with language-conditioned visual execution. Left: the visual topological map. Middle: the planned route becomes a sequence of language intents. Right: landmark intents tolerate coarse poses better than direction-only intents and waypoint tracking with DWA. Click the figure to open it at full resolution.</figcaption>
-</figure>
-
-The paper will be available on arXiv soon, and a demo video will follow.
+The paper will be available on arXiv soon.
